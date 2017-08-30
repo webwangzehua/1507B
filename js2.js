@@ -1,1 +1,1 @@
-console.log("再见")
+console.log("zaijian");
